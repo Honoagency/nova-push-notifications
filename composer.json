@@ -14,7 +14,7 @@
     "license": "MIT",
     "require": {
         "php": ">=7.1.0",
-        "php-http/guzzle6-adapter": "^1.1",
+        "php-http/guzzle6-adapter": "^6.5",
         "norkunas/onesignal-php-api": "^1.10"
     },
     "autoload": {
